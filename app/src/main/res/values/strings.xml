@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Words</string>
+    <string name="Partⅰ">Part Ⅰ:生活常识与社交篇</string>
+    <string name="Partⅱ">Part Ⅱ:旅游篇</string>
+    <string name="Partⅲ">Part Ⅲ:职场篇</string>
+    <string name="Partⅳ">Part Ⅳ:学术篇</string>
+    <string name="Partⅴ">Part Ⅴ:自然人文篇</string>
+    <string name="Partⅵ">Part Ⅵ:生活类</string>
+    <string name="Partⅶ">Part Ⅶ:生活类</string>
+    <string name="Partⅷ">Part Ⅷ:生活类</string>
+</resources>
